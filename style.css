@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(252, 217, 174);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#header_div{
+    background-color: rgb(230, 155, 103);
+    color:brown;
+   
+}
+hr{
+    border: 3px solid brown;
+}
